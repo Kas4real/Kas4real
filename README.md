@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kas4real
+- 👀 I’m interested in Web development, Cloud and Web3.0.
+- 🌱 I’m currently learning Cloud Engineering.
+- 💞️ I’m looking to collaborate on startups and opensource 
+- 📫 Contact me: tobiade88@gmail.com
